@@ -1,86 +1,90 @@
-📊 Overview
-A comprehensive MotoGP Championship analysis dashboard providing detailed insights into motorcycle performance, teams, and riders across different seasons.
-✨ Key Features
-📈 Speed Analysis
+# 🏍️ MotoGP Championship Dashboard 📊  
 
-Compare motorcycle speeds by manufacturer
-Visual chart showing top speeds for:
+A comprehensive and interactive dashboard analyzing **MotoGP Championship** data, providing deep insights into motorcycles, riders, and teams across multiple seasons.  
 
-Ducati (352 km/h)
-Aprilia (345 km/h)
-Honda (345 km/h)
-KTM (343 km/h)
-Yamaha (342 km/h)
-Suzuki (338 km/h)
+---
 
+## ✨ Key Features  
 
+### 📈 Speed Analysis  
+- Compare motorcycle speeds by manufacturer.  
+- Top speeds:  
+  - Ducati → **352 km/h**  
+  - Aprilia → 345 km/h  
+  - Honda → 345 km/h  
+  - KTM → 343 km/h  
+  - Yamaha → 342 km/h  
+  - Suzuki → 338 km/h  
 
-🏆 Winner Statistics
+### 🏆 Winner Statistics  
+- **Best Rider** → Francesco Bagnaia (**11 wins**)  
+- **Fastest Motorcycle** → Ducati  
+- Rider victories:  
+  - Fabio Quartararo → 5 wins  
+  - Jorge Martín → 3 wins  
+  - Marc Márquez → 3 wins  
+  - Joan Mir → 1 win  
+  - Pedro Acosta → 1 win  
 
-Best Rider: Francesco Bagnaia (11 wins)
-Fastest Motorcycle: Ducati
-Rider rankings by victories:
+### 🏁 Team Analysis  
+- Points statistics:  
+  - Ducati Lenovo Team → 691 pts  
+  - Prima Pramac Racing → 508 pts  
+  - Monster Energy Yamaha → 431 pts  
+  - Red Bull KTM Factory → 234 pts  
+  - Repsol Honda Team → 212 pts  
+  - Team Suzuki → 201 pts  
+  - Aprilia Racing → 156 pts  
 
-Fabio Quartararo: 5 wins
-Jorge Martín: 3 wins
-Marc Márquez: 3 wins
-Joan Mir: 1 win
-Pedro Acosta: 1 win
+### 🗺️ Toughest Corners  
+- Interactive map highlighting the most challenging corners across:  
+  - North America  
+  - South America  
+  - Europe  
+  - Asia  
 
+### 🔍 Advanced Filters  
+- Filter by **Season** → 2020, 2021, 2022  
+- Filter by **Bike Type** → Aprilia, Ducati, Honda  
 
+---
 
-🏁 Team Analysis
-Points statistics for top teams:
+## 🎨 UI Design  
+- Dark theme with bold red accents.  
+- Clear and professional data visualizations.  
+- Responsive layout across devices.  
+- Featured MotoGP motorcycle image centerpiece.  
 
-Ducati Lenovo Team: 691 points
-Prima Pramac Racing: 508 points
-Monster Energy Yamaha: 431 points
-Red Bull KTM Factory: 234 points
-Repsol Honda Team: 212 points
-Team Suzuki: 201 points
-Aprilia Racing: 156 points
+---
 
-🗺️ Toughest Corners
-Interactive map showing the most challenging corners in racing circuits worldwide:
+## 🛠️ Technologies Used  
+- Interactive data charts.  
+- Geographic maps for racing circuits.  
+- Advanced filtering and slicing system.  
+- Modern, user-friendly design.  
 
-North America
-South America
-Europe
-Asia
+---
 
-🔍 Advanced Filters
+## 📱 Usage  
+1. Select **season** from sidebar menu.  
+2. Choose **bike type** for filtering.  
+3. Explore speed, rider wins, and team points.  
+4. Analyze toughest corners worldwide.  
 
-Filter by Season: 2020, 2021, 2022
-Filter by Bike Type: Aprilia, Ducati, Honda
+---
 
-🎨 UI Design
+## 📊 Displayed Data  
+- Motorcycle **Top Speeds**.  
+- Rider **Wins per Season**.  
+- **Team Points** in the championship.  
+- Geographic data of racing circuits.  
 
-Professional dark theme with striking red accents
-Clear and readable data visualizations
-Responsive layout for all devices
-Featured MotoGP motorcycle image as centerpiece
+---
 
-🛠️ Technologies Used
+## 🏍️ Additional Information  
+- Covers data from **2020–2022 MotoGP seasons**.  
+- Provides insights into rider performance, team strategies, and motorcycle engineering.  
 
-Modern and attractive design
-Interactive data charts
-Geographic maps for circuits
-Advanced filtering system
+---
 
-📱 Usage
-The dashboard provides a comprehensive view of all MotoGP Championship aspects:
-
-Select season from sidebar menu
-Choose bike type for filtering
-Browse different statistics
-Analyze rider and team performance
-
-📊 Displayed Data
-
-Top Speeds for different motorcycles
-Number of Wins per rider
-Team Points in the championship
-Geographic Locations of challenging circuits
-
-🏍️ Additional Information
-The dashboard covers data from 2020 to 2022 seasons and provides comprehensive analysis of all major teams and riders' performance in the MotoGP World Championship.
+📌 *This dashboard highlights performance analysis of MotoGP racing with professional visuals and advanced interactive features.*  
